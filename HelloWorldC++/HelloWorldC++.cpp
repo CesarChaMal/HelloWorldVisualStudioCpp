@@ -10,4 +10,3 @@ int _tmain(int argc, _TCHAR* argv[])
     std::cout << "Hello World C++!\n\r";
     return 0;
 }
-
